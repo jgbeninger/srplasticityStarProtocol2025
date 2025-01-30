@@ -28,14 +28,6 @@ pip install srplasticity==0.0.1
 
 All source files and additional files are hosted on Github at https://github.com/nauralcodinglab/srplasticity.git
 
-## Repository Structure
-
-- The **srplasticity** package contains all source code and implements
-the SRP model and the associated parameter inference.
-- The **examples** directory contains use examples and tutorials (currently in progress)
-- The **scripts** directory contains the scripts to reproduce the figures in the manuscript
-- The **data** directory contains the data used in the manuscript figures and the use examples.
-
 ## Paper Citation
 @article{rossbroich2021linear,
   title={Linear-nonlinear cascades capture synaptic dynamics},
